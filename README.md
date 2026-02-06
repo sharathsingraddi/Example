@@ -20,3 +20,14 @@ git remote -v #to verify remote
 git branch #to check branch
 git branch -M main # to rename branch
 git push origin name #final push
+
+
+
+GIT BRANCHES
+ branches are diff commits for one project like difff teams working on same project and we can merge them afterwards 
+branch commands
+git branch #to check branch
+git branch -M newname #to rename branch
+git checkout branch name # to navigate or switch branches
+git checkout -b new branch name #(to create new branch)
+git branch -d branch name # to delete branch
